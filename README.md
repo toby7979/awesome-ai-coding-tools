@@ -604,6 +604,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Speakeasy](https://www.speakeasy.com/product/ai-control-plane)** – Enterprise AI control plane for governing access, policy, and auditability across agents, MCP servers, and Skills.
 
 ---
+- **[SealMyApp](https://sealmyapp.com/)** – Ownership-verified, read-only security scan for apps built with Lovable, Bolt, Cursor, Replit and v0, with AI-written fix prompts for the builder used (free scan).
+
 
 ## Database and API Tools
 
